@@ -12,7 +12,7 @@ Este repositório tem como objetivo demonstrar minhas habilidades na construçã
 | :--- | :--- | :--- | :--- |
 | **Análise de Vendas Globais** | Vendas | Performance por País e Desconto | https://app.powerbi.com/groups/me/reports/d50f80ae-0c36-4214-bf4a-cbc0a6e92e70/ReportSection?experience=power-bi |
 | **Mini Projeto - Análise Financeira** | Financeiro | Receitas, Despesas e Margem de Lucro | https://app.powerbi.com/groups/me/reports/f9d36994-864b-4b4e-b733-6e631d6b53cc/ReportSection?experience=power-bi |
-| **Mini Projeto 1 - Marketing** | Marketing | Comportamento de Compra e Campanhas | https://app.powerbi.com/groups/me/reports/dad25cb7-dba9-4309-bc26-b99fed5bc7e7/de85003537eb0dd83885?experience=power-bi |
+| **Mini Projeto - Marketing** | Marketing | Comportamento de Compra e Campanhas | https://app.powerbi.com/groups/me/reports/dad25cb7-dba9-4309-bc26-b99fed5bc7e7/de85003537eb0dd83885?experience=power-bi |
 | **Petshop Gatito** | Varejo/Vendas | Faturamento, Localização e UX/UI | https://app.powerbi.com/groups/me/reports/07fb244b-fe78-4ee9-9188-a8207e5467af/47dc6149a30c8b1460ea?experience=power-bi |
 
 ---
@@ -39,7 +39,7 @@ Este repositório tem como objetivo demonstrar minhas habilidades na construçã
 
 **Insight Principal:** O projeto gera a capacidade de identificar segmentos com maior e menor desempenho de Margem de Lucro, direcionando o foco do plano estratégico para áreas de alta rentabilidade.
 
-### 3. Mini Projeto 1 - Marketing
+### 3. Mini Projeto - Marketing
 
 **O que resolve:** Oferecer uma visão completa e segmentada dos clientes, cobrindo o perfil, o comportamento de compra e a eficácia das diversas campanhas de Marketing, suportando a tomada de decisão.
 
