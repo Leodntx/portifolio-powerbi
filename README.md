@@ -11,7 +11,7 @@ Este repositório tem como objetivo demonstrar minhas habilidades na construçã
 | Projeto | Área de Negócio | Foco da Análise | Link para o Dashboard |
 | :--- | :--- | :--- | :--- |
 | **Análise de Vendas Globais** | Vendas | Performance por País e Desconto | https://app.powerbi.com/groups/me/reports/d50f80ae-0c36-4214-bf4a-cbc0a6e92e70/ReportSection?experience=power-bi |
-| **Mini Projeto - Análise Financeira** | Financeiro | Receitas, Despesas e Margem de Lucro | https://app.powerbi.com/groups/me/reports/f9d36994-864b-4b4e-b733-6e631d6b53cc/ReportSection?experience=power-bi |
+| **Mini Projeto - Análise Financeira** | Financeiro | Receitas, Despesas e Margem de Lucro | https://app.powerbi.com/groups/me/reports/4a9d0ed3-dbe5-4dfa-aa51-d1883e8bb24d/ReportSection?language=pt-BR&experience=power-bi |
 | **Mini Projeto - Marketing** | Marketing | Comportamento de Compra e Campanhas | https://app.powerbi.com/groups/me/reports/dad25cb7-dba9-4309-bc26-b99fed5bc7e7/de85003537eb0dd83885?experience=power-bi |
 | **Petshop Gatito** | Varejo/Vendas | Faturamento, Localização e UX/UI | https://app.powerbi.com/groups/me/reports/07fb244b-fe78-4ee9-9188-a8207e5467af/47dc6149a30c8b1460ea?experience=power-bi |
 
